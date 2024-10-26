@@ -3,7 +3,7 @@
 </h1>
 
 
-Contact: [Telegram](https://t.me/save_restricted_content_bots)
+Contact: [Telegram](https://t.me/sujay8371)
 
 ---
 
@@ -33,7 +33,7 @@ This branch is purely based on `Pyrogram V2` with more stability And this is bas
 - auto pin messages(if they are pinned)
 - login via phone number
 
-## Deploying Guide - [TEAM SPY](https://t.me/save_restricted_content_bots)
+## Deploying Guide - [TEAM SPY](https://t.me/save_restricted_content_bot)
 
 ### How to get required vars
  
@@ -41,7 +41,7 @@ This branch is purely based on `Pyrogram V2` with more stability And this is bas
 - BOT_TOKEN: @Botfather on telegram
 - OWNER_ID : Go to @missrose_bot on telegram and send `/info` to know your ID
 - CHANNEL_ID : This will be used as Force Subscribe channel
-- LOG_GROUP: Create a Group or Channel add you bot there and forward any message of that channel/group to @userinfobot to know the ID of you channel/group
+- LOG_GROUP: Create a Group or Channel add you bot there and forward any message of tht chn@userinfobot to know the ID of you channel/group
 - MONGO_DB: It is recommended to use your mongoDB to avoid session hacks and all
 Note : You must make bot admin in both channels
 
@@ -90,9 +90,6 @@ python3 -m devgagan
 - connect github and your repository
 - Click Deploy
 - Done ✅
-
-## Terms of USE / Modification 
-Visit [Terms](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/master/TERMS_OF_USE.md) and accept the guidelines.
 
 # Updates
 ## Update: 16 Aug 2024
